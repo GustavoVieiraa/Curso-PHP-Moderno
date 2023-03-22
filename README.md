@@ -1,4 +1,4 @@
-# ___Curso de PHP Moderno Módulo 1
+# Curso de PHP Moderno Módulo 1
 Meu processo aprendendo PHP Moderno, com diversos exercícios e aulas totalmente dinâmicas e com muito conteúdo!
 Nosso conteúdo do Módulo 01:
   - Argumentação
